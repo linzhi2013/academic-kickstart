@@ -18,7 +18,7 @@ organizations:
   url: "https://www.zfmk.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include phylogenomics, phenotypic evolution, biodiversity research, developing bioinformatics tools.
 
 interests:
 - Phylogenomics
@@ -28,15 +28,17 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Evolutionary Biology
+    institution: Zoologisches Forschungsmuseum Alexander Koenig (ZFMK) & University of Bonn
+    year: 2020
+  - course: BSc in Biological Science
+    institution: China University of Geosciences (Wuhan)
+    year: 2010
+
+Professional experience:
+- Beijing Grandomics Biosciences Co Ltd, 2019-2020
+- Beijing Genomics Institute (BGI), 2013-2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
