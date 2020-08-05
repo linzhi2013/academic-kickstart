@@ -35,7 +35,7 @@ education:
     institution: China University of Geosciences (Wuhan)
     year: 2010
 
-Professional experience:
+Professional_experience:
 - Beijing Grandomics Biosciences Co Ltd, 2019-2020
 - Beijing Genomics Institute (BGI), 2013-2019
 
