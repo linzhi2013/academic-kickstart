@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Guanliang Meng
 
 # Username (this should match the folder name)
 authors:
@@ -14,8 +14,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Zoologisches Forschungsmuseum Alexander Koenig (ZFMK)
+  url: "https://www.zfmk.de/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
