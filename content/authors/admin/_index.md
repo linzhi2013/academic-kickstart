@@ -35,9 +35,6 @@ education:
     institution: China University of Geosciences (Wuhan)
     year: 2010
 
-Professional_experience:
-- Beijing Grandomics Biosciences Co Ltd, 2019-2020
-- Beijing Genomics Institute (BGI), 2013-2019
 
 
 # Social/Academic Networking
@@ -45,9 +42,9 @@ Professional_experience:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/menggualiang
