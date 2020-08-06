@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Guanliang Meng is a PhD student at the Museum Koenig, Bonn, Germany. His interests include phylogenomics, phenotypic evolution, biodiversity research, developing bioinformatics tools.
+Guanliang Meng is a PhD student at the Museum Koenig and the University of Bonn, Bonn, Germany. His interests include phylogenomics, phenotypic evolution, biodiversity research, developing bioinformatics analysis tools.
 
