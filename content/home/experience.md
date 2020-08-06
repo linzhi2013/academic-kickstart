@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   * Propose solutions
   * Supervise team members
 
-  On bioinformatics pipeline development of animal/plant/human-related projects:
+  On bioinformatics pipeline development of animal-/plant-/human-related projects:
   * Pipeline design
   * Programming implements
   * Pipeline deployment on HPC and Cloud
