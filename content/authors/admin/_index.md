@@ -18,13 +18,13 @@ organizations:
   url: "https://www.zfmk.de/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include phylogenomics, phenotypic evolution, biodiversity research, developing bioinformatics tools.
+bio: My research interests include phylogenomics, phenotypic evolution, biodiversity research, developing bioinformatics analysis tools.
 
 interests:
 - Phylogenomics
 - Phyenotypic evolution
 - Biodversity research
-- Developing bioinformtic tools
+- Developing bioinformtic analysis tools
 
 education:
   courses:

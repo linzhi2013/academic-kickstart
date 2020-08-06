@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 
   Responsibilities include:
 
-  In the group dealing with problematically animal/plant projects:
+  In the group dealing with problematic animal/plant projects:
   * Identify key problems
   * Propose solutions
   * Supervise team members
