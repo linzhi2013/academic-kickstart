@@ -25,11 +25,11 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-05-26"
   description = """
-  As a team leader for the group dealing with problematic projects and a member of the medical research service center.
+  As a team leader for the group dealing with problematic projects and later a member of the medical research service center.
 
   Responsibilities include:
 
-  In the group dealing with problematic projects:
+  In the group dealing with problematically animal/plant projects:
   * Identify key problems
   * Propose solutions
   * Supervise team members
@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Shenzhen"
   date_start = "2013-03-09"
   date_end = "2019-04-26"
-  description = """worked on phylogenetics and biodiversity studies, e.g. the 1K Insect Transcriptome Evolution (1KITE) project (https://www.1kite.org/), have also knowledge of genome assembly & assessment, genome annotation, and comparative genomic/phylogenetic analysis."""
+  description = """Worked on phylogenetics and biodiversity studies, e.g. the 1K Insect Transcriptome Evolution (1KITE) project (https://www.1kite.org/). Have knowledge of genome assembly & assessment, genome annotation, and comparative genomic/phylogenetic analysis."""
 
 +++
