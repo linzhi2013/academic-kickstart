@@ -1,5 +1,4 @@
 +++
-tags = ["Biodiversity", "Phenotypic plasticity"]
 title = "Phenotypic plasticity as a mechanism of cave colonization and adaptation"
 date = "2020-04-21"
 authors = ["Helena Bilandžija", "Breanna Hollifield", "Mireille Steck", "Guanliang Meng", "Mandy Ng", "Andrew D Koch", "Romana Gračan", "Helena Ćetković", "Megan L Porter", "Kenneth J Renner", "William Jeffery"]
@@ -11,7 +10,7 @@ abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
-tags = []
+tags = ["Biodiversity", "Phenotypic plasticity"]
 url_pdf = ""
 url_preprint = ""
 url_code = ""

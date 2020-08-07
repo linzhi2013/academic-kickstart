@@ -1,6 +1,5 @@
 +++
 featured = true
-tags = ["Phylogenomics", "1KITE", "Evolution", "Insect"]
 title = "Phylogenomics resolves the timing and pattern of insect evolution"
 date = "2014-11-07"
 authors = ["Misof B", "Liu S", "...", "Meng G et al"]
@@ -12,7 +11,7 @@ abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
-tags = []
+tags = ["Phylogenomics", "1KITE", "Evolution", "Insect"]
 url_pdf = ""
 url_preprint = ""
 url_code = ""

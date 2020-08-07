@@ -1,6 +1,5 @@
 +++
 featured = true
-tags = ["Biodiversity", "Mitochondrial genome", "mitogenome", "Mitogenomics", "Ecology"]
 title = "Regional assemblages shaped by historical and contemporary factors: evidence from a species rich insect group"
 date = "2020-03-12"
 authors = ["Hao M †" , "Jin Q †" , "Meng G †" , "Yang C †" , "Yang S", "et al."]
@@ -12,7 +11,7 @@ abstract_short = ""
 image_preview = ""
 selected = true
 projects = []
-tags = []
+tags = ["Biodiversity", "Mitochondrial genome", "mitogenome", "Mitogenomics", "Ecology"]
 url_pdf = ""
 url_preprint = ""
 url_code = ""

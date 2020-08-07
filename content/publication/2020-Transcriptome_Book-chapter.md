@@ -1,6 +1,5 @@
 +++
 featured = true
-tags = ["Phylogenomics", "1KITE", "Insect", "Transcriptome", "RNA"]
 title = """Book chapter: From reads to Genes"""
 date = "2020-03-13"
 authors = ["Zhou C", "Meng G", "Liu S"]
@@ -14,7 +13,7 @@ abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
-tags = []
+tags = ["Phylogenomics", "1KITE", "Insect", "Transcriptome", "RNA"]
 url_pdf = ""
 url_preprint = ""
 url_code = ""
