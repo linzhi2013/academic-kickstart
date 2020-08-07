@@ -2,7 +2,7 @@
 title = """Book chapter: From reads to Genes"""
 date = "2020-03-13"
 authors = ["Zhou C", "Meng G", "Liu S"]
-publication_types = ["3"]
+publication_types = ["4"]
 publication = "Boston, MA : CAB International, [2020]. https://www.worldcat.org/isbn/9781789243130"
 publication_short = "Boston, MA : CAB International, [2020]. https://www.worldcat.org/isbn/9781789243130"
 abstract = """Book name: Transcriptomics in entomological research
