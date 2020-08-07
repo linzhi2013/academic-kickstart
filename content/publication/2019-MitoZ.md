@@ -1,6 +1,5 @@
 +++
 featured = true
-tags = ["Biodiversity", "Mitochondrial genome", "mitogenome", "Phylogenomics"]
 title = "MitoZ: a toolkit for animal mitochondrial genome assembly"
 date = "2019-03-13"
 authors = ["Meng G", "Li Y", "Yang C", "Liu S"]
@@ -12,7 +11,7 @@ abstract_short = ""
 image_preview = ""
 selected = true
 projects = []
-tags = []
+tags = ["Biodiversity", "Mitochondrial genome", "mitogenome", "Phylogenomics"]
 url_pdf = ""
 url_preprint = ""
 url_code = ""
