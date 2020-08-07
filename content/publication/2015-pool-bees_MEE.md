@@ -3,8 +3,8 @@ title = "High‐throughput monitoring of wild bee diversity and abundance via mi
 date = "2015-07-15"
 authors = ["Tang M", "Hardman CJ", "Ji Y", "Meng G", "Liu S", "Tan M", "Yang S", "Moss ED", "Wang J", "Yang C", "Bruce C"]
 publication_types = ["2"]
-publication = "Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.12416"
-publication_short = "Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.12416"
+publication = "**Methods in Ecology and Evolution**, https://doi.org/10.1111/2041-210X.12416"
+publication_short = "**Methods in Ecology and Evolution**, https://doi.org/10.1111/2041-210X.12416"
 abstract = """Summary
 
 1. Bee populations and other pollinators face multiple, synergistically acting threats, which have led to population declines, loss of local species richness and pollination services, and extinctions. However, our understanding of the degree, distribution and causes of declines is patchy, in part due to inadequate monitoring systems, with the challenge of taxonomic identification posing a major logistical barrier. Pollinator conservation would benefit from a high‐throughput identification pipeline.
