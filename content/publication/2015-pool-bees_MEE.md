@@ -1,4 +1,5 @@
 +++
+featured = true
 title = "High‐throughput monitoring of wild bee diversity and abundance via mitogenomics"
 date = "2015-07-15"
 authors = ["Tang M", "Hardman CJ", "Ji Y", "Meng G", "Liu S", "Tan M", "Yang S", "Moss ED", "Wang J", "Yang C", "Bruce C"]

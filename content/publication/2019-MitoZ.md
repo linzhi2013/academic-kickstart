@@ -1,4 +1,5 @@
 +++
+featured = true
 title = "MitoZ: a toolkit for animal mitochondrial genome assembly"
 date = "2019-03-13"
 authors = ["Meng G", "Li Y", "Yang C", "Liu S"]

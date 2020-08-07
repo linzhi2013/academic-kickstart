@@ -1,4 +1,5 @@
 +++
+featured = true
 title = """Book chapter: From reads to Genes"""
 date = "2020-03-13"
 authors = ["Zhou C", "Meng G", "Liu S"]
