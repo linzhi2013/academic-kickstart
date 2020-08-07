@@ -1,4 +1,5 @@
 +++
+tags = ["Biodiversity", "Mammal"]
 title = "A new record of a mammal in China and new provincial records in Xizang, Hubei and Sichuan"
 date = "2020-05-30"
 authors = ["LIU Shaoying", "LIU Yingxun", "MENG Guanliang", "ZHOU Chengran", "LIU Yang", "LIAO Rui"]

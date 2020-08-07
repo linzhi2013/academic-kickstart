@@ -1,5 +1,6 @@
 +++
 featured = true
+tags = ["Biodiversity", "Mitochondrial genome", "mitogenome"]
 title = "Multiplex sequencing of pooled mitochondrial genomes—a crucial step toward biodiversity analysis using mito-metagenomics"
 date = "2014-10-07"
 authors = ["Tang M", "Tan M", "Meng G", "Yang S", "Su X", "Liu S", "Song W", "Li Y", "Wu Q", "Zhang A", "Zhou X"]

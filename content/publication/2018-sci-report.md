@@ -1,4 +1,5 @@
 +++
+tags = ["Virus"]
 title = "Characterization of viral RNA splicing using whole-transcriptome datasets from host species"
 date = "2018-02-19"
 authors = ["Zhou C", "Liu S", "Song W", "Luo S", "Meng G", "Yang C", "Yang H", "Ma J", "Wang L", "Gao S", "Wang J"]

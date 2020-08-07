@@ -19,18 +19,26 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "90%"
-  
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "perl"
+  icon_pack = "fab"
+  name = "Perl"
+  description = "90%"
+
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "90%"
+
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "90%"
+
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
