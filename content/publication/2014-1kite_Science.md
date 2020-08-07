@@ -1,4 +1,5 @@
 +++
+featured = true
 title = "Phylogenomics resolves the timing and pattern of insect evolution"
 date = "2014-11-07"
 authors = ["Misof B", "Liu S", "...", "Meng G et al"]
