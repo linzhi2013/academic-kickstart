@@ -1,5 +1,5 @@
 +++
-title = "Book chapter *From reads to Genes* for *Transcriptomics in entomological research*"
+title = """Book chapter *From reads to Genes* for *Transcriptomics in entomological research*"""
 date = "2020-03-13"
 authors = ["Zhou C", "Meng G", "Liu S"]
 publication_types = ["2"]
