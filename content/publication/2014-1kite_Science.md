@@ -2,7 +2,7 @@
 featured = true
 title = "Phylogenomics resolves the timing and pattern of insect evolution"
 date = "2014-11-07"
-authors = ["Misof B", "Liu S", "...", "Meng G et al"]
+authors = ["Misof B", "Liu S", "...", "Meng G*"， "et al"]
 publication_types = ["2"]
 publication = "**Science**  07 Nov 2014: Vol. 346, Issue 6210, pp. 763-767, https://doi.org/10.1126/science.1257570"
 publication_short = "**Science**  07 Nov 2014: Vol. 346, Issue 6210, pp. 763-767, https://doi.org/10.1126/science.1257570"
