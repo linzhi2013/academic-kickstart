@@ -4,7 +4,7 @@ Insects are one of the most species-rich groups of metazoan organisms. They play
 
 1KITE has brought together internationally recognized experts in molecular biology, morphology, palaeontology, embryology, bioinformatics, and scientific computing in a yet unparalleled way. Overall, scientists from eleven nations (Australia, Austria, China, France, Germany, Japan, Mexico, The Netherlands, New Zealand, UK and the US) are tightly collaborating in the 1KITE project.
 
-I participated in 1KITE project since 2013 when I was junior student and right after I joined BGI (https://www.bgi.com/global/). Supervised by Prof. Xin Zhou and Dr. Shanlin Liu, I played an important role in the project:
+I participated in 1KITE project since 2013 when I was junior student and right after I joined BGI (https://www.bgi.com/global/). Supervised by Prof. Xin Zhou and Dr. Shanlin Liu, I played an important role in the project on the behalf on BGI:
 
 ● Sample management
 ● Sequence data management
