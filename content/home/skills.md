@@ -46,9 +46,9 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "wdl"
+  icon = "wdl&cromwell"
   icon_pack = "fab"
-  name = "WDL"
+  name = "WDL & Cromwell"
   description = ""
 
 
