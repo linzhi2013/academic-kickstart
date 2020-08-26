@@ -18,26 +18,38 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = ""
 
 [[feature]]
   icon = "perl"
   icon_pack = "fab"
   name = "Perl"
-  description = "90%"
+  description = ""
 
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "90%"
+  description = ""
 
 [[feature]]
   icon = "docker"
   icon_pack = "fab"
   name = "Docker"
-  description = "90%"
+  description = ""
 
+[[feature]]
+  icon = "singularity"
+  icon_pack = "fab"
+  name = "Singularity"
+  description = ""
+
+
+[[feature]]
+  icon = "wdl"
+  icon_pack = "fab"
+  name = "WDL"
+  description = ""
 
 
 # Uncomment to use emoji icons.
@@ -45,7 +57,7 @@ subtitle = ""
 #  icon = ":smile:"
 #  icon_pack = "emoji"
 #  name = "Emojiness"
-#  description = "100%"  
+#  description = "100%" 
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
