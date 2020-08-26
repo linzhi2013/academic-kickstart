@@ -23,7 +23,7 @@ bio: My research interests include phylogenomics, phenotypic evolution, biodiver
 interests:
 - Phylogenomics
 - Phyenotypic evolution
-- Biodversity research
+- Biodiversity research
 - Developing bioinformtic analysis tools
 
 education:
