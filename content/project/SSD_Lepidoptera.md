@@ -14,3 +14,6 @@ I worked on this project on the behalf of BGI since 2014, supervised by Prof. Xi
 ● SOAPBarcode assembly and compared with Sanger sequences
 
 ● Manuscript writing (partial)
+
+
+The project has two papers, one is published on ***Molecular Ecology*** (https://doi.org/10.1111/mec.15412), another just got accepted by ***Evolutionary Ecology*** and will come out soon.
