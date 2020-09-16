@@ -2,7 +2,7 @@
 featured = false
 title = "Phylogenomic analysis sheds new light on the evolutionary pathways towards acoustic communication in Orthoptera"
 date = "2020-09-11"
-authors = ["Song H", "...", "Meng G" , "et al."]
+authors = ["Song H", "...", "Meng G", "et al."]
 publication_types = ["2"]
 publication = "**Nature Communications**, Accepted (NCOMMS-20-05529C)"
 publication_short = "**Nature Communications**, Accepted (NCOMMS-20-05529C)"

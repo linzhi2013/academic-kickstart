@@ -1,7 +1,7 @@
 +++
 title = "A new record of a mammal in China and new provincial records in Xizang, Hubei and Sichuan"
 date = "2020-05-30"
-authors = ["LIU S", "LIU Y", "MENG G", "ZHOU C", "LIU Y", "LIAO R"]
+authors = ["Liu S", "Liu Y", "Meng G", "Zhou C", "Liu Y", "Liao R"]
 publication_types = ["2"]
 publication = "**ACTA Theriologica Sinica**, http://www.mammal.cn//EN/10.16829/j.slxb.150354"
 publication_short = "**ACTA Theriologica Sinica**, http://www.mammal.cn//EN/10.16829/j.slxb.150354"

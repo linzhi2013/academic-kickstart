@@ -1,7 +1,7 @@
 +++
 title = "Phenotypic plasticity as a mechanism of cave colonization and adaptation"
 date = "2020-04-21"
-authors = ["Helena Bilandžija", "Breanna Hollifield", "Mireille Steck", "Guanliang Meng", "Mandy Ng", "Andrew D Koch", "Romana Gračan", "Helena Ćetković", "Megan L Porter", "Kenneth J Renner", "William Jeffery"]
+authors = ["Bilandžija H", "Hollifield B", "Steck M", "Meng G", "et al."]
 publication_types = ["2"]
 publication = "**eLife**, https://doi.org/10.7554/eLife.51830"
 publication_short = "**eLife**, https://doi.org/10.7554/eLife.51830"
