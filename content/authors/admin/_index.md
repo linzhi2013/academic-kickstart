@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Evolutionary Biology
+  - course: PhD student in Evolutionary Biology
     institution: Zoologisches Forschungsmuseum Alexander Koenig (ZFMK) & University of Bonn
-    year: 2020
+    year: 2020-present
   - course: BSc in Biological Science
     institution: China University of Geosciences (Wuhan)
-    year: 2010
+    year: 2010-2014
 
 
 
