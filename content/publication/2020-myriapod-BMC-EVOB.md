@@ -1,5 +1,5 @@
 +++
-featured = true
+featured = false
 title = "Four myriapod relatives – but who are sisters? No end to debates on relationships among the four major myriapod subgroups"
 date = "2020-09-30"
 authors = ["Szucsich N. †" , "Bartel D. †", "..." , "Meng G", "et al."]
