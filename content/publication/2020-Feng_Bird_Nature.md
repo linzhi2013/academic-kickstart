@@ -1,6 +1,6 @@
 +++
 featured = false
-title = "Densely sampling genomes across the diversity of birds increases power of comparative genomics analyses"
+title = "Dense sampling of bird diversity increases power of comparative genomics"
 date = "2020-11-11"
 authors = ["Feng S", "...", "Meng G", "et al."]
 publication_types = ["2"]
