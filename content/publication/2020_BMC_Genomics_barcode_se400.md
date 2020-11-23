@@ -1,10 +1,10 @@
 +++
-title = "Access COI barcode efficiently using high throughput Single-End 400 bp sequencing"
-date = "2018-12-17"
-authors = ["Yang C", "Tan S", "Meng G", "et al"]
-publication_types = ["3"]
-publication = "BioRxiv, https://doi.org/10.1101/498618"
-publication_short = "BioRxiv, https://doi.org/10.1101/498618"
+title = "Efficient COI barcoding using high throughput single-end 400 bp sequencing"
+date = "2020-11-31"
+authors = ["Yang C", "Zheng Y", "Tan S", "Meng G", "et al"]
+publication_types = ["2"]
+publication = "BMC Genomics, https://doi.org/10.1186/s12864-020-07255-w, https://doi.org/10.1101/498618"
+publication_short = "BMC Genomics, https://doi.org/10.1186/s12864-020-07255-w, https://doi.org/10.1101/498618"
 abstract = """Summary
 
 Over the last decade, the rapid development of high-throughput sequencing platforms has accelerated species description and assisted morphological classification through DNA barcoding. However, constraints in barcoding costs led to unbalanced efforts which prevented accurate taxonomic identification for biodiversity studies.
