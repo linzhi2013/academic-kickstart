@@ -2,7 +2,7 @@
 title = "Comparison of the two up-to-date sequencing technologies for genome assembly: HiFi reads of Pacific Biosciences Sequel II system and ultralong reads of Oxford Nanopore"
 date = "2020-12-15"
 authors = ["Lang D", "...", "Meng G", "et al"]
-publication_types = ["2"]
+publication_types = ["3"]
 publication = "GigaScience, https://doi.org/10.1093/gigascience/giaa123"
 publication_short = "GigaScience, https://doi.org/10.1093/gigascience/giaa123"
 abstract = """**Abstract**
