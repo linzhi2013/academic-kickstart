@@ -1,7 +1,7 @@
 +++
 featured = true
 title = "Multiplex sequencing of pooled mitochondrial genomes—a crucial step toward biodiversity analysis using mito-metagenomics"
-date = "2014-10-07"
+date = "2014-12-16"
 authors = ["Tang M", "Tan M", "Meng G", "Yang S", "Su X", "Liu S", "Song W", "Li Y", "Wu Q", "Zhang A", "Zhou X"]
 publication_types = ["2"]
 publication = "**Nucleic Acids Research**, Volume 42, Issue 22, 16 December 2014, Page e166, https://doi.org/10.1093/nar/gku917"
