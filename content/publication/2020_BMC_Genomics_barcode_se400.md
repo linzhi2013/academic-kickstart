@@ -1,6 +1,6 @@
 +++
 title = "Efficient COI barcoding using high throughput single-end 400 bp sequencing"
-date = "2020-11-31"
+date = "2020-11-30"
 authors = ["Yang C", "Zheng Y", "Tan S", "Meng G", "et al"]
 publication_types = ["2"]
 publication = "BMC Genomics, https://doi.org/10.1186/s12864-020-07255-w, https://doi.org/10.1101/498618"
