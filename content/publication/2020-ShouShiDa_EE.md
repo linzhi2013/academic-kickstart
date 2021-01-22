@@ -2,7 +2,7 @@
 featured = false
 title = "Using full-length metabarcoding and DNA barcoding to infer community assembly for speciose taxonomic groups: a case study"
 date = "2020-09-05"
-authors = ["Hao M †" , "Jin Q †" , "Meng G †" , "Yang C †" , "Yang S", "et al."]
+authors = ["Hao M " , "Jin Q " , "Meng G " , "Yang C " , "Yang S", "et al."]
 publication_types = ["2"]
 publication = "**Evolutionary Ecology**, https://doi.org/10.1007/s10682-020-10072-y"
 publication_short = "**Evolutionary Ecology**, https://doi.org/10.1007/s10682-020-10072-y"
