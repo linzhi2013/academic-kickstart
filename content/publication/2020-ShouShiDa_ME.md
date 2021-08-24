@@ -2,7 +2,7 @@
 featured = true
 title = "Regional assemblages shaped by historical and contemporary factors: evidence from a species rich insect group"
 date = "2020-03-12"
-authors = ["Hao M " , "Jin Q " , "Meng G " , "Yang C " , "Yang S", "et al."]
+authors = ["Hao M †" , "Jin Q †" , "Meng G †" , "Yang C †" , "Yang S", "et al."]
 publication_types = ["2"]
 publication = "**Molecular Ecology**, https://doi.org/10.1111/mec.15412"
 publication_short = "**Molecular Ecology**, https://doi.org/10.1111/mec.15412"
