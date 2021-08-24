@@ -1,7 +1,6 @@
 +++
 featured = false
-title = "Phylogeny and Sex Chromosome Evolution of Palaeognathae
-"
+title = "Phylogeny and Sex Chromosome Evolution of Palaeognathae"
 date = "2021-06-13"
 authors = ["Wang Z", "...", "Meng G", "et al"]
 publication_types = ["2"]
