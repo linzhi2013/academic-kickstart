@@ -25,9 +25,6 @@ image_preview = "https://ars.els-cdn.com/content/image/1-s2.0-S0092867421008916-
 selected = true
 projects = []
 
- adulterationpollenfloral compositiongenomicsmachine learningresilient backpropagation
-
-
 tags = ["Biodiversity", "Honeybee", "Floral composition", "Genomics", "Machine learning"]
 url_pdf = ""
 url_preprint = ""
