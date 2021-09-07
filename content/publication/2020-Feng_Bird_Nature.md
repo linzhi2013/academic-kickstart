@@ -1,5 +1,5 @@
 +++
-featured = false
+featured = true
 title = "Dense sampling of bird diversity increases power of comparative genomics"
 date = "2020-11-11"
 authors = ["Feng S", "...", "Meng G", "et al."]

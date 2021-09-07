@@ -1,5 +1,5 @@
 +++
-featured = false
+featured = true
 title = "Tracing the origin of honey products based on metagenomics and machine learning"
 date = "2021-09-06"
 authors = ["Liu S", "Lang D", "Meng G", "Hu J", "Tang M", "Zhou X"]

@@ -1,5 +1,5 @@
 +++
-featured = false
+featured = true
 title = "Ancient and modern genomes unravel the evolutionary history of the rhinoceros family"
 date = "2021-08-24"
 authors = ["Liu S", "...", "Meng G", "et al"]

@@ -1,5 +1,5 @@
 +++
-featured = false
+featured = true
 title = "Phylogenomic analysis sheds new light on the evolutionary pathways towards acoustic communication in Orthoptera"
 date = "2020-10-02"
 authors = ["Song H", "...", "Meng G", "et al."]

@@ -1,4 +1,6 @@
 +++
+featured = true
+
 title = "Phenotypic plasticity as a mechanism of cave colonization and adaptation"
 date = "2020-04-21"
 authors = ["Bilandžija H", "Hollifield B", "Steck M", "Meng G", "et al."]
