@@ -2,7 +2,7 @@
 featured = false
 title = "Tracing the origin of honey products based on metagenomics and machine learning"
 date = "2021-09-06"
-authors = ["Liu S", "Lang D", "Meng G", "et al"]
+authors = ["Liu S", "Lang D", "Meng G", "Hu J", "Tang M", "Zhou X"]
 publication_types = ["2"]
 publication = "**Food Chemistry**, https://doi.org/10.1016/j.foodchem.2021.131066 "
 publication_short = "**Food Chemistry**, https://doi.org/10.1016/j.foodchem.2021.131066 "
