@@ -1,8 +1,7 @@
 +++
 featured = true
-title = "基于转录组数据和短序列测序的系统发育研究方法
-(Phylogenomics based on transcriptomics and short-read sequences)"
-date = "2021-09-06"
+title = "基于转录组数据和短序列测序的系统发育研究方法 (Phylogenomics based on transcriptomics and short-read sequences)"
+date = "2021-09-10"
 authors = ["Meng G", "Zhou C", "Liu S","Zhou X"]
 publication_types = ["2"]
 publication = "**Bio-101**, https://doi.org/10.21769/BioProtoc.1010649 "
